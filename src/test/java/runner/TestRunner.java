@@ -12,8 +12,7 @@ import io.cucumber.junit.CucumberOptions;
 		plugin = {
 				"html:target/cucumber-html-report",
 				"pretty:target/cucumber-pretty.txt",
-				"usage:target/cucumber-usage.json",
-				"junit:target/cucumber-junit-report.xml"
+				"usage:target/cucumber-usage.json"
 			}
 		)
 public class TestRunner {
