@@ -1,0 +1,20 @@
+[
+  {
+    "source": "Open firefox and start application",
+    "steps": [
+      {
+        "name": "Open firefox and start application",
+        "aggregatedDurations": {
+          "median": 10.358524,
+          "average": 10.358524
+        },
+        "durations": [
+          {
+            "duration": 10.358524,
+            "location": "file:///C:/Users/LMANTALA/eclipse-selenium/CucumberDemo/features/myapp.feature:4"
+          }
+        ]
+      }
+    ]
+  }
+]
